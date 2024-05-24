@@ -1,7 +1,4 @@
 # Supply-Chain-Optimization-with-Machine-Learning
-Supply chain 
-
-# Supply-Chain-Optimization-with-Machine-Learning
 Revolutionize supply chain of your company with the project—predict demand, optimize inventory, and streamline routes using data analysis and machine learning. Stay ahead, reduce costs, and embrace sustainable, efficient logistics. The future of supply chain management starts here.
 
 Overview:
